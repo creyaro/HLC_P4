@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05ae821d-082d-4dd1-8c8f-6bc86d01cbfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students-service/src/main/java/com/hlc/studentsservice/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students-service/src/main/java/com/hlc/studentsservice/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students-service/src/main/java/com/hlc/studentsservice/StudentsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students-service/src/main/java/com/hlc/studentsservice/StudentsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-service/src/main/java/com/subjectservice/subjectservice/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-service/src/main/java/com/subjectservice/subjectservice/SubjectRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bUYwc49N2Dr4UsP2p0DeNP9c7B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/usuario/Descargas/HLC_P4"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05ae821d-082d-4dd1-8c8f-6bc86d01cbfe" name="Changes" comment="" />
+      <created>1706271363580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706271363580</updated>
+    </task>
+    <servers />
+  </component>
+</project>
